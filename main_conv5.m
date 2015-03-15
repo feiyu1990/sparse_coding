@@ -21,7 +21,6 @@ test_set = 'feature_conv5_norelu_test';
 
 %% set path
 addpath('large_scale_svm');
-addpath('sift');
 addpath(genpath('sparse_coding'));
 
 %% parameter setting
